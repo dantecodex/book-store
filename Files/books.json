@@ -1,0 +1,327 @@
+[
+    {
+        "name": "To Kill a Mockingbird",
+        "description": "A novel about the serious issues of rape and racial inequality.",
+        "author": "Harper Lee",
+        "release_year": 1960,
+        "genres": [
+            "Fiction",
+            "Classic",
+            "Historical"
+        ],
+        "ratings": 4.8,
+        "price": 10.99
+    },
+    {
+        "name": "1984",
+        "description": "A dystopian social science fiction novel and cautionary tale about the future.",
+        "author": "George Orwell",
+        "release_year": 1949,
+        "genres": [
+            "Fiction",
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "ratings": 4.7,
+        "price": 8.99
+    },
+    {
+        "name": "Pride and Prejudice",
+        "description": "A romantic novel of manners that depicts the British Regency era.",
+        "author": "Jane Austen",
+        "release_year": 1813,
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Classic"
+        ],
+        "ratings": 4.6,
+        "price": 6.99
+    },
+    {
+        "name": "The Great Gatsby",
+        "description": "A novel about the American dream and the roaring twenties.",
+        "author": "F. Scott Fitzgerald",
+        "release_year": 1925,
+        "genres": [
+            "Fiction",
+            "Classic",
+            "Historical"
+        ],
+        "ratings": 4.5,
+        "price": 9.99
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "description": "A novel about teenage rebellion and angst.",
+        "author": "J.D. Salinger",
+        "release_year": 1951,
+        "genres": [
+            "Fiction",
+            "Classic",
+            "Young Adult"
+        ],
+        "ratings": 4.4,
+        "price": 7.99
+    },
+    {
+        "name": "Moby Dick",
+        "description": "A novel about the voyage of the whaling ship Pequod.",
+        "author": "Herman Melville",
+        "release_year": 1851,
+        "genres": [
+            "Fiction",
+            "Adventure",
+            "Classic"
+        ],
+        "ratings": 4.3,
+        "price": 11.99
+    },
+    {
+        "name": "War and Peace",
+        "description": "A novel that chronicles the French invasion of Russia.",
+        "author": "Leo Tolstoy",
+        "release_year": 1869,
+        "genres": [
+            "Fiction",
+            "Historical",
+            "Classic"
+        ],
+        "ratings": 4.2,
+        "price": 12.99
+    },
+    {
+        "name": "The Hobbit",
+        "description": "A fantasy novel about the quest of home-loving hobbit Bilbo Baggins.",
+        "author": "J.R.R. Tolkien",
+        "release_year": 1937,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Adventure"
+        ],
+        "ratings": 4.8,
+        "price": 8.99
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "description": "A young wizard's journey begins.",
+        "author": "J.K. Rowling",
+        "release_year": 1997,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Young Adult"
+        ],
+        "ratings": 4.9,
+        "price": 9.99
+    },
+    {
+        "name": "The Lord of the Rings",
+        "description": "An epic high-fantasy novel set in Middle-earth.",
+        "author": "J.R.R. Tolkien",
+        "release_year": 1954,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Adventure"
+        ],
+        "ratings": 4.9,
+        "price": 15.99
+    },
+    {
+        "name": "The Alchemist",
+        "description": "A novel about a shepherd's journey to realize his Personal Legend.",
+        "author": "Paulo Coelho",
+        "release_year": 1988,
+        "genres": [
+            "Fiction",
+            "Adventure",
+            "Fantasy"
+        ],
+        "ratings": 4.7,
+        "price": 9.99
+    },
+    {
+        "name": "Little Women",
+        "description": "The lives of four sisters during the Civil War era.",
+        "author": "Louisa May Alcott",
+        "release_year": 1868,
+        "genres": [
+            "Fiction",
+            "Classic",
+            "Family"
+        ],
+        "ratings": 4.5,
+        "price": 7.99
+    },
+    {
+        "name": "The Catch-22",
+        "description": "A satirical novel set during World War II.",
+        "author": "Joseph Heller",
+        "release_year": 1961,
+        "genres": [
+            "Fiction",
+            "War",
+            "Satire"
+        ],
+        "ratings": 4.4,
+        "price": 8.99
+    },
+    {
+        "name": "The Grapes of Wrath",
+        "description": "A novel about the Great Depression and a family's hardships.",
+        "author": "John Steinbeck",
+        "release_year": 1939,
+        "genres": [
+            "Fiction",
+            "Classic",
+            "Historical"
+        ],
+        "ratings": 4.5,
+        "price": 9.99
+    },
+    {
+        "name": "Jane Eyre",
+        "description": "A novel about the life of an orphaned girl and her moral and spiritual development.",
+        "author": "Charlotte Bronte",
+        "release_year": 1847,
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Classic"
+        ],
+        "ratings": 4.6,
+        "price": 8.99
+    },
+    {
+        "name": "Wuthering Heights",
+        "description": "A tale of passion and revenge set on the Yorkshire moors.",
+        "author": "Emily Bronte",
+        "release_year": 1847,
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Classic"
+        ],
+        "ratings": 4.5,
+        "price": 8.99
+    },
+    {
+        "name": "Brave New World",
+        "description": "A dystopian novel about a future society.",
+        "author": "Aldous Huxley",
+        "release_year": 1932,
+        "genres": [
+            "Fiction",
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "ratings": 4.3,
+        "price": 7.99
+    },
+    {
+        "name": "Fahrenheit 451",
+        "description": "A novel about a future society where books are banned and 'firemen' burn them.",
+        "author": "Ray Bradbury",
+        "release_year": 1953,
+        "genres": [
+            "Fiction",
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "ratings": 4.4,
+        "price": 9.99
+    },
+    {
+        "name": "The Chronicles of Narnia",
+        "description": "A series of fantasy novels set in the magical land of Narnia.",
+        "author": "C.S. Lewis",
+        "release_year": 1950,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Adventure"
+        ],
+        "ratings": 4.7,
+        "price": 29.99
+    },
+    {
+        "name": "Crime and Punishment",
+        "description": "A novel about the mental anguish and moral dilemmas of a poor ex-student who kills a pawnbroker.",
+        "author": "Fyodor Dostoevsky",
+        "release_year": 1866,
+        "genres": [
+            "Fiction",
+            "Philosophical",
+            "Classic"
+        ],
+        "ratings": 4.6,
+        "price": 10.99
+    },
+    {
+        "name": "The Odyssey",
+        "description": "An epic poem about Odysseus' journey home after the fall of Troy.",
+        "author": "Homer",
+        "release_year": -800,
+        "genres": [
+            "Fiction",
+            "Epic",
+            "Classic"
+        ],
+        "ratings": 4.7,
+        "price": 11.99
+    },
+    {
+        "name": "The Divine Comedy",
+        "description": "An epic poem about Dante's journey through Hell, Purgatory, and Paradise.",
+        "author": "Dante Alighieri",
+        "release_year": 1320,
+        "genres": [
+            "Fiction",
+            "Epic",
+            "Classic"
+        ],
+        "ratings": 4.8,
+        "price": 12.99
+    },
+    {
+        "name": "Don Quixote",
+        "description": "A novel about the adventures of a noble who reads too many chivalric romances and decides to become a knight-errant.",
+        "author": "Miguel de Cervantes",
+        "release_year": 1605,
+        "genres": [
+            "Fiction",
+            "Adventure",
+            "Classic"
+        ],
+        "ratings": 4.6,
+        "price": 14.99
+    },
+    {
+        "name": "Anna Karenina",
+        "description": "A novel about the tragic romance between Anna Karenina and Count Vronsky.",
+        "author": "Leo Tolstoy",
+        "release_year": 1877,
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Classic"
+        ],
+        "ratings": 4.7,
+        "price": 9.99
+    },
+    {
+        "name": "Ulysses",
+        "description": "A modernist novel that parallels Homer's Odyssey in a stream-of-consciousness style.",
+        "author": "James Joyce",
+        "release_year": 1922,
+        "genres": [
+            "Fiction",
+            "Modernist",
+            "Classic"
+        ],
+        "ratings": 4.3,
+        "price": 13.99
+    }
+]
