@@ -9,8 +9,6 @@ const getBooks = asyncErrorHandler(async (req, res) => {
     const regex = /\b(gt|gte|lt|lte)\b/g;
     const queryObj = JSON.parse(queryStr.replace(regex, (match) => `$${match}`));
 
-    console.log('Transformed query object:', queryObj);
-
     let booksQueryObj = Book.find(queryObj);
 
     // Sorting Logic
