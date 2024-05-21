@@ -16,7 +16,6 @@ Feel free to connect with me on LinkedIn:
 - [File Structure](#file-structure)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
